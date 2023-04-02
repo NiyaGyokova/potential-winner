@@ -1,0 +1,33 @@
+body {
+    background-color: #e7cfab;
+  }
+
+h1 {
+  text-align: center;
+  font-size: 70px;
+  color: #6b8796;
+  font-family: "Copperplate", Fantasy;
+}
+h2 {
+  text-align: center;
+  font-size: 50px;
+  font-family: "Copperplate", Fantasy; 
+  color: #6b8796;}
+
+  h3 {
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif; 
+    color: #6b8796;}
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+  }
+  p{font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;}
+  ul{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
